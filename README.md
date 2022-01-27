@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 </div>  
 
-### 📊 Github status:
+### 📊 Github status: 
 
 <div align="center">
   <a href="https://github.com/Unti1">
