@@ -1,20 +1,17 @@
 ### 📞 How to reach me:
+<div align="center">
+
+<div class="social vk">
+    <a href="#" target="_blank"><i class="fa fa-vk fa-2x"></i></a>    
+</div>
+<div class="social telegram">
+    <a href="#" target="_blank"><i class="fa fa-paper-plane fa-2x"></i></a>
+</div>
+  
+  
+</div>
 ### 👨‍💻 Tools, Languages and Skills:
 ### 📊 Github status:
 ### ✏️ About me:
 ### 🎓 I’m currently learning ..
 
-<!--
-**Unti1/Unti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
