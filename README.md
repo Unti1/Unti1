@@ -28,10 +28,10 @@
 
 <div align="center">
   <a href="https://github.com/Unti1">
-    <img src="https://github-readme-stats.vercel.app/api?username=oganesK&show_icons=true&hide=stars&hide_border=true" alt="Artyom's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Unti1&show_icons=true&hide=stars&hide_border=true" alt="Artyom's GitHub Stats" />
   </a>
   <a href="https://github.com/Unti1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oganesK&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Artyoms's Language Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unti1&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Artyoms's Language Stats" />
   </a>
 <div>
 
