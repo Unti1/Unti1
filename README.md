@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📞 How to reach me:
+### 👨‍💻 Tools, Languages and Skills:
+### 📊 Github status:
+### ✏️ About me:
+### 🎓 I’m currently learning ..
 
 <!--
 **Unti1/Unti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
