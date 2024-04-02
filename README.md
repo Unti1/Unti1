@@ -22,5 +22,10 @@
 <div>
 
 ### ✏️ About me:
-### 🎓 I’m currently learning ..
+### 🎓 I’m currently learning
+<li>
+  <ul>Django</ul>
+  <ul>FastAPI</ul>
+  <ul>Playwright</ul>
+</li>
 
