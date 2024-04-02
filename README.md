@@ -23,9 +23,9 @@
 
 ### ✏️ About me:
 ### 🎓 I’m currently learning
-<li>
-  <ul>Django</ul>
-  <ul>FastAPI</ul>
-  <ul>Playwright</ul>
-</li>
+<ul>
+  <li>Django</li>
+  <li>FastAPI</li>
+  <li>Playwright</li>
+</ul>
 
